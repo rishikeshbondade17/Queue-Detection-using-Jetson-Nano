@@ -183,6 +183,19 @@ is straightforward.
 ➢ YOLOv5 was used to train and test our model for whether the group of people are
 in Queue or not. We trained it for 149 epochs and achieved an accuracy of
 approximately 92%.
+
+
+## Jetson Nano 2GB Developer Kit.
+
+### Setup
+
+
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano1.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano2.jpg" alt="Demo2" width="400" height="300">
+
+
 ## Installation
 
 ### Initial Setup
@@ -312,14 +325,6 @@ source '0' for webcam
 ## Demo Video
 
 
-
-## Screenshots
-
-
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano1.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano2.jpg" alt="Demo2" width="400" height="300">
 
 ## Advantages
 
